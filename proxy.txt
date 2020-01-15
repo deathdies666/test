@@ -1,0 +1,8 @@
+# Frontend Domains (Random Selection)
+# hostname
+# hostname:80
+# hostname:443
+118.97.159.51:443
+118.97.114.31:443
+118.97.114.27:443
+118.98.95.106:443
